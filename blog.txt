@@ -1,0 +1,85 @@
+<index.html>
+<html>
+<head>
+<style>
+
+
+
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+h2 {
+  color: purple;
+  text-align: center;
+  font-family: Anton;
+  font-size: 50px;
+}
+
+p {
+  color: black;
+  font-family: Antic Slab;
+  font-size: 20px;
+}
+.p1 { background-color:Navy;
+color: white;
+  font-family: Antic Slab;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+<h2> Article 5 </h2>
+<p>Toxicity in gaming is when a person is mean to another person when gaming, not just being mean though, but it’s being so abruptly “toxic” for the smallest or no reason at all. It's important to understand this so the ability to prevent or combat it is more possible. I personally believe the best way to combat this is through the use of A.I. to analyze and ban these people who show toxicity.
+<a href="https://www.protocol.com/unity-online-gaming-toxicity-study"> Article </a>
+</p>
+<h2> Article 6</h2>
+<p>The greatest Esports team to ever touch Rainbow Six Siege, TSM. WIth the likes of Beaulo, and there impecable iq and strategy, the only thing they struggle with is there ego's
+</p>
+<h2> Article 1&2 </h2>
+<p>
+PT drivers make a poor attempt to criticize the fps known as Rainbow Six Siege. Instead of
+criticizing R6’s (Rainbow Six Siege) biggest problem which is cheaters, PT drivers choose to
+pinpoint they’re lack of a single player mode. To be blunt, it doesn't make any sense to have a
+single player mode. Not one mainstream competitive fps has a single player mode, Valorant?
+No, Apex Legends? No, CSGO? No! Siege is not meant to be single player nor was it ever,
+Siege is a game only won with the best teammates and chemistry, and the most precise of
+communication.
+<br>
+<a href="https://www.ptdrivers.com/gaming/rainbow-six-siege-review/"> Article </a>
+</p>
+<h2> Article 3</h2>
+<p>My Dream Rig
+
+ AMD Ryzen 9 7950X 4.5GHz 16-Core Processor
+
+ be quiet! Dark Rock Pro 4
+
+ MSI PRO B650-P WIFI ATX AM5
+
+ AMD Radeon RX 6800 - ASUS TUF Gaming
+
+ 32GB (2x16GB) Kingston Fury Beast Black DDR5-6000 CL40
+
+ Samsung 860 EVO 2TB 2.5" Solid State Drive
+
+ 
+WD Black SN850X 1TB NVMe M.2 Solid State Drive
+
+ Seagate BarraCuda Compute 6TB, 3.5"
+
+ Corsair RMx Series RM750x 750W Power Supply
+
+ Corsair Carbide Series Air 540
+</p>
+
+<h2> Article 7 </h2>
+<img src="Article7.png">
+
+</body>
+</html>
+
+
+

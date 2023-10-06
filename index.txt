@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  color: purple;
+  text-align: center;
+  font-family: Anton;
+  font-size: 50px;
+
+
+p {
+  font-family: Antic Slab;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>A Noobs Guide to
+</h1>
+<h2>VALORANT
+</h2>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+
+
